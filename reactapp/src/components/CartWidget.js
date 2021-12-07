@@ -3,7 +3,7 @@ const CartWidget = ({greeting}) => {
 
     return(
         <div>
-        return <img src={logo} alt="logo" />
+        return <img className="cartWidget" src={logo} alt="logo" />
         </div>
     )
 }

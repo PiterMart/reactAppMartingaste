@@ -1,0 +1,12 @@
+.item{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  color: blue;
+  width: 17em;
+}
+img{
+  width: 10em;
+  align-self: center;
+  
+}

@@ -6,10 +6,10 @@ export const Nav = () => {
         <div>
             <nav>
             <ul className="navContainer">
-                <li classname="list">HOME</li>
-                <li classname="list">CATEGORIA A</li>
-                <li classname="list">CATEGORIA B</li>
-                <li classname="list">CATEGORIA C</li>
+                <li className="list">HOME</li>
+                <li className="list">CATEGORIA A</li>
+                <li className="list">CATEGORIA B</li>
+                <li className="list">CATEGORIA C</li>
                 <CartWidget/>
 
             </ul>
