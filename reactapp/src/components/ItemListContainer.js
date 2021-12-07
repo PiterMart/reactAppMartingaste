@@ -37,7 +37,7 @@ const ItemListContainer = ({greeting}) => {
     });
   }
 
-  useEffect(()=> {
+  useEffect(() => {
     mock(true, 2000).then(data => setItems(data))
   }, [])
 

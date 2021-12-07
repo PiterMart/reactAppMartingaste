@@ -4,7 +4,7 @@ function Item({pictureUrl, title, price}){
 
   return (
   <div className="item">
-    <img src={pictureUrl}></img>
+    <img src={pictureUrl} alt="foto"></img>
     <p>{title}</p>
     <p>{price}</p>
   </div>
